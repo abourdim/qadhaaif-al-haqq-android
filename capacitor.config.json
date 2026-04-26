@@ -1,6 +1,6 @@
 {
-  "appId": "{{APP_ID}}",
-  "appName": "{{APP_NAME}}",
+  "appId": "org.workshopdiy.qadhaaifalhaqq",
+  "appName": "Qadhaaif al-Haqq",
   "webDir": "www",
   "android": {
     "allowMixedContent": false,
@@ -10,14 +10,14 @@
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 1500,
-      "backgroundColor": "{{BRAND_PRIMARY}}",
+      "backgroundColor": "#76224C",
       "androidSplashResourceName": "splash",
       "androidScaleType": "CENTER_CROP",
       "showSpinner": false
     },
     "StatusBar": {
       "style": "DARK",
-      "backgroundColor": "{{BRAND_PRIMARY}}"
+      "backgroundColor": "#76224C"
     }
   }
 }

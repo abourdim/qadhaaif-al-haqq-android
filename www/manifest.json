@@ -1,0 +1,12 @@
+{
+  "name": "Missiles of Truth — قذائف الحق",
+  "short_name": "قذائف الحق",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book — defending Islam against misconceptions",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#BF360C",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
